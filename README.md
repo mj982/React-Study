@@ -30,7 +30,7 @@
 
 | 이름 | 공부 자료 |
 | ---- | ------- |
-| 구민정 | |
+| 구민정 | https://github.com/borimong?tab=repositories |
 | 김채연 | |
 | 김서연 | |
 | 이유림 | |
