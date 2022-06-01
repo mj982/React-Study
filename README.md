@@ -28,11 +28,4 @@
 
 ## 공부 자료 업로드 
 
-| 이름 | 공부 자료 |
-| ---- | ------- |
-| 구민정 | https://github.com/borimong?tab=repositories |
-| 김채연 | |
-| 김서연 | |
-| 이유림 | |
-| 서혜은 | |
-| 김현수 | https://github.com/borimong?tab=repositories |
+| https://github.com/borimong?tab=repositories | https://www.notion.so/React-Twitter-clone-coding-6afa06fa941e40769d7266334cda7b9a |
